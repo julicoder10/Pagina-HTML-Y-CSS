@@ -78,6 +78,9 @@ h2{
   color:red;
   font-size:17px;
 }
+
+
+/*SECCIÓN 2 REDES SOCIALES Y/O BOTONES*/
 .redes{
   align-self: center;
   color: white;
@@ -101,18 +104,10 @@ h2{
   height: 32px;
   width: 32px;
 }
+/*footer*/
 footer{
   color: white;
   font-weight: lighter;
 }
-.ghost-button {
-  display: inline-block;
-  width: 200px;
-  padding: 8px;
-  color: #fff;
-  border: 1px solid #fff;
-  text-align: center;
-  outline: none;
-  text-decoration: none;
-}
+
 
